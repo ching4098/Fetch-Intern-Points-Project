@@ -22,7 +22,7 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/ching4098/Fetch-Intern-Points-Project.git
-cd Fetch-Intern-Points-Project/
+cd Fetch-Intern-Points-Project/points
 ```
 ### 2. Build the Docker Image
 Ensure that you are in the project directory, then run the following command to build the Docker image:
