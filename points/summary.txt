@@ -1,0 +1,16 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+- I chose Java and Spring Boot because I have used Java in most of my university CS modules and know the language the best as compared to other programming languages and know that it is capable of building scalable backend services. Spring Boot, in particular, simplifies the setup of REST APIs with its built-in tools for configuration and creating endpoints, which makes it easier for someone like me who is just introduced to the concept.
+
+2. What are the advantages and disadvantages of your solution?
+- **Advantages**:
+     - The solution is built on a developed tech stack that ensures scalability, reliability (known, tested, and used by many), and ease of testing (testing is done when building the project with maven, check out the tests in PointsApplicationTests.java for further detail).
+
+     - Spring Boot reduces boilerplate code and provides features that make integration testing easier, which makes development faster.
+
+     - The use of Docker allows the application to be containerized, making it easy to deploy consistently in various environments, even for users who have not had Java and Maven installed.
+
+- **Disadvantages**:
+     - Java can be more wordy compared to some modern languages, which might lead to increased development time. Sometimes, it might even be harder to read.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+- One of my favorite school projects was implementing Dijkstra's algorithm. This project taught me many concepts that I had not learned prior to the course, such as graph theory and efficient data structure use. The concepts I learned are still applicable to many projects I work on today (though way less complex), concepts and algorithms were easy to catch but harder for me to implement back then (due to not understanding the language well enough), nonetheless the stuff that was learned throughout the project was fun and appllicable in different situations even today, when I'm completing other projects and undergraduate research studies that are more complex.
